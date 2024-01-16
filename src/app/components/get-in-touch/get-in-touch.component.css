@@ -1,0 +1,53 @@
+.main-getInTouch {
+  margin-left: 24%;
+  width: 80vh;
+  margin-top: 55px;
+  padding: 2px;
+  /* border: 2px solid red; */
+  max-height: 1600px;
+  min-height: 80vh;
+}
+.getInTouch {
+  font-family: "Fira Mono", monospace;
+  margin-right: 10px;
+  font-size: 14px;
+  color: #64ffda;
+}
+.main-getInTouch-p {
+  text-align: center;
+  font-family: "Fira Mono", monospace;
+  font-size: 14px;
+  color: #ccd6f6;
+}
+.name {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 70px;
+  color: #ccd6f6;
+}
+.clickable-div {
+  margin-top: 50px;
+  width: 150px;
+  height: 55px;
+  border: 1px solid #4dc5af;
+  border-radius: 5px;
+  margin-left: 34%;
+  padding: 10px 20px;
+  cursor: pointer;
+
+  color: #4dc5af;
+  font-family: "Fira Mono", monospace;
+  font-size: 16px;
+  text-align: center;
+}
+.vertical-text {
+    margin-top: 166px;
+    color: #8b95b3;
+    font-family: 'Fira Mono', monospace;
+    font-size: small;
+   text-align: center;
+    transition: color 0.3s ease;
+  }
+  .gmail:hover{
+    color:#64FFDA ;
+}

@@ -1,0 +1,50 @@
+.horizontal-menu {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  font-family: "Fira Mono", monospace;
+  font-size: 15px;
+  margin-left: 85vh;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-family: "Fira Mono", monospace;
+  font-size: 40px;
+  color: #64ffda;
+}
+
+.horizontal-menu li {
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.horizontal-menu li:last-child {
+  margin-right: 0;
+}
+
+.horizontal-menu a {
+  text-decoration: none;
+  color: #8b95b3;
+}
+
+.horizontal-menu a:hover {
+  color: #64ffda;
+}
+.about {
+  color: #64ffda;
+  font-size: small;
+}
+.clickable-div {
+  width: 80px;
+
+  border: 1px solid #4dc5af;
+  border-radius: 5px;
+  cursor: pointer;
+
+  color: #4dc5af;
+  font-family: "Fira Mono", monospace;
+  font-size: 14px;
+  text-align: center;
+}

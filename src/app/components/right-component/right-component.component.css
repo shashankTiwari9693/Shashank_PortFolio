@@ -1,0 +1,34 @@
+.container {
+  position: relative;
+}
+
+.fixed-div {
+top: 52.9vh;
+  position: fixed;
+  right: 50px;
+  width: 50px;
+  max-height: 1600px;
+  min-height: 100vh;
+  color: #8b95b3;
+  /* background-color: #f1f1f1; */
+}
+
+.content {
+  padding-right: 250px;
+}
+/* Style for vertical text */
+.vertical-text {
+    font-family: 'Fira Mono', monospace;
+    font-size: small;
+    writing-mode: vertical-rl; 
+    text-orientation: mixed; 
+    transition: color 0.3s ease;
+  }
+  .vertical-line {
+    margin-left: 24px;
+    border-left: 1px solid #8b95b3; /* Adjust the width and color as needed */
+    height: 100px; /* Adjust the height of the line */
+  }
+  .gmail:hover{
+    color:#64FFDA ;
+}

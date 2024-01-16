@@ -1,0 +1,30 @@
+.main-project {
+    margin-top: 55px;
+    padding: 2px;
+    /* border: 2px solid red; */
+    max-height: 1600px;
+    min-height: 80vh;
+  }
+  .card{
+background-color: #0a192f;
+color: #8892b0;
+border-color: #8892b0;
+  }
+  .work{
+    font-family: "Fira Mono", monospace;
+    margin-right: 10px;
+    font-size:20px;
+    color:#64FFDA ;
+  }
+  .main-work-p{
+  
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  color: #ccd6f6;
+  }
+  .bi-github:hover{
+    fill:black ;
+}
+.card-footer {
+    margin-top: auto;
+  }

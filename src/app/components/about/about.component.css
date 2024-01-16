@@ -1,0 +1,53 @@
+.main-about {
+    margin-top: 55px;
+    padding: 2px;
+    /* border: 2px solid red; */
+    max-height: 1600px;
+    min-height: 80vh;
+  }
+  .details{
+    font-family: "Fira Mono", monospace;
+    font-size: 15px;
+    color: #8b95b3;
+    margin-top: 20px;
+    /* border: 2px solid red; */
+    width: 60%;
+    max-height: 1600px;
+    min-height: 80vh;
+
+  }
+  .photo{
+     margin-top: 27px;
+     margin-left: 10px;
+    /* border: 2px solid red; */
+    width: 40%;
+    max-height: 1600px;
+    min-height: 80vh;
+  }
+  .technologies{
+    display: flex;
+    align-items: baseline;
+  }
+  .techstack{
+    font-family: "Fira Mono", monospace;
+    font-size: 13px;
+    color: #8b95b3;
+  }
+  .main-technologies{
+    height: fit-content;
+  }
+  .main-about-details{
+    display: flex;
+  }
+  .about{
+    font-family: "Fira Mono", monospace;
+    margin-right: 10px;
+    font-size:25px;
+    color:#64FFDA ;
+  }
+  .main-about-p{
+  
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  color: #ccd6f6;
+  }

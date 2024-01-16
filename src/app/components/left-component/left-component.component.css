@@ -1,0 +1,42 @@
+.container {
+  position: relative;
+}
+
+.fixed-div {
+  top: 50vh;
+  position: fixed;
+  left: 50px;
+  width: 50px;
+  max-height: 1600px;
+  min-height: 100vh;
+  /* background-color: #64ffda; */
+}
+
+.content {
+  padding-right: 250px;
+}
+
+.icon-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.icon-list li {
+  margin-bottom: 20px;
+}
+
+.icon-list svg {
+  font-size: 44px;
+  transition: color 0.3s ease;
+}
+
+.icon-list svg:hover{
+    fill:#64FFDA ;
+}
+/* Style for the vertical line */
+.vertical-line {
+    margin: 7px;
+    border-left: 1px solid #8b95b3; /* Adjust the width and color as needed */
+    height: 150px; /* Adjust the height of the line */
+  }
+  
