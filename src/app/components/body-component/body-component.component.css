@@ -28,6 +28,7 @@
   font-weight: 500;
 }
 .clickable-div {
+  text-decoration: none;
   margin-top: 50px;
   width: 250px;
   height: 55px;
@@ -46,3 +47,6 @@
 /* .clickable-div:hover {
   background-color: #ccc;
 } */
+.blog{
+  margin-top: 50px;
+}

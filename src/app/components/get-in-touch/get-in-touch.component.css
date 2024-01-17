@@ -51,3 +51,10 @@
   .gmail:hover{
     color:#64FFDA ;
 }
+.mailto-button{
+  color: #4dc5af;
+  font-family: "Fira Mono", monospace;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+}
